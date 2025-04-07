@@ -38,7 +38,7 @@ This project is a part of a Data Cleaning and Preprocessing Task. The goal was t
 ---
 
 ## 📤 How to Run
-1. Open the `Data_Cleaning.ipynb` notebook.
+1. Open the `Task _1_ Data_ Cleaning_ and_ Preprocessing.ipynb` notebook.
 2. Run each cell sequentially to clean the dataset.
 3. Cleaned CSV will be saved as `marketing_campaign_cleaned.csv`.
 
